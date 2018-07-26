@@ -5,7 +5,7 @@ namespace Validate\Algorithm;
  * B algorithm validator.
  *
  * @category Validate
- * @package  Validate
+ * @package  Algorithm
  *
  * @author   Quintin Venter
  * @since    26 July 2018

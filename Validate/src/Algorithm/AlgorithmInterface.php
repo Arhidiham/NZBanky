@@ -7,7 +7,7 @@ use Validate\Vo\AccountVo;
  * Bank account validator class.
  * 
  * @category Validate
- * @package  Validate
+ * @package  Algorithm
  * 
  * @author   Quintin Venter
  * @since    26 July 2018

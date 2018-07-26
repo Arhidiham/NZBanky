@@ -106,6 +106,8 @@ class Validate
      * 
      * @param string $number - the number to split up
      * 
+     * @throws \Exception - if any validation fails 
+     * 
      * @return AccountVo - the account setup
      */
     protected function split(string $number) : AccountVo

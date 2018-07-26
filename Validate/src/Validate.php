@@ -15,13 +15,14 @@ class Validate
 {
     
     /**
-     * Just checking the install with unit testing.
+     * Checks if the provided account number is valid.
      * 
-     * @return int
+     * @param string $number - the account number in question
+     * 
+     * @return bool - true if the number is valid
      */
-    public function returnInt() : int
+    public function run(string $number) : bool
     {
-        return rand(10, 100);
     }
     
 }

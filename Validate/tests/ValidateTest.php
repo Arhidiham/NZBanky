@@ -38,6 +38,10 @@ class ValidateTest extends TestCase
             ['01-0819-0454289-00'],
             ['12-3041-0244961-11'],
             ['03-0854-0594325-25', false],
+            ['12-3041-1244961-11'], // to test a B scenario
+            ['01-902-0068389-00'], // from the IRD document case A
+            ['08-6523-1954512-001'], // from the IRD document case D
+            ['26-2600-0320871-032'], // from the IRD document case G
         ];
     }
     
